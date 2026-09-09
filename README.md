@@ -298,16 +298,10 @@ I'm interested in opportunities and projects involving:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramazan_Bozkurt-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramazan_Bozkurt-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ramazan-bozkurt-271397302/)
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ramazannbozkurrtt@outlook.com)
 
 </div>
 
 ---
-
-<div align="center">
-
-### Build systems. Understand data. Solve real problems.
-
-</div>
