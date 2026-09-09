@@ -89,9 +89,9 @@ AI                     → Enterprise AI • Multi-Agent Systems • Automation
 
 </p>
 
-I work with data across the pipeline — from storage and transformation to analytics and reporting.
+I'm currently building my skills in data engineering and analytics, learning how data moves across the pipeline — from storage and transformation to analytics and reporting.
 
-**Core areas:**
+**Currently learning:**
 
 * ETL / ELT pipelines
 * Data cleaning & transformation
